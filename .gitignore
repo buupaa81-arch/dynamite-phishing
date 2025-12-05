@@ -1,0 +1,49 @@
+# Node.js / JavaScript
+node_modules/
+dist/
+.env
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+.eggs/
+build/
+develop-eggs/
+dist/
+downloads/
+pip-wheel-metadata/
+.installed.cfg
+*.manifest
+*.spec
+
+# Virtualenv
+venv/
+ENV/
+env/
+.venv/
+
+# Testitulokset ja raportit
+.coverage
+coverage/
+htmlcov/
+.tox/
+.nox/
+*.lcov
+.pytest_cache/
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Git väliaikaistiedostot
+*.swp
+*.swo
+*.bak
